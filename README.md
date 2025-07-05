@@ -1,15 +1,15 @@
 ### Olá, eu sou o Bruno Neves! 👋
 
 <p>
-  Sou um entusiasta de tecnologia e estou começando minha jornada no mundo da programação. Atualmente estou focado em aprender [Tecnologia 1] e [Tecnologia 2].
+  Sou um entusiasta de tecnologia e estou começando minha jornada no mundo da programação. Atualmente estou focado em aprender Python e Java.
 </p>
 
 ---
 
 #### 👨‍💻 Sobre Mim
-- 🎓 Formado em [Analise e desenvolvimento de sistemas].
-- 🌱 Atualmente aprendendo sobre: **[Programação, analisa de dados com python]**.
-- 📫 Como me encontrar: [darkhulda322@gmail.com].
+- 🎓 Formado em Analise e desenvolvimento de sistemas.
+- 🌱 Atualmente aprendendo sobre: **Programação, analisa de dados com python**.
+- 📫 Como me encontrar: darkhulda322@gmail.com.
 - 😄 Pronomes: Ele/Dele
 
 ---
