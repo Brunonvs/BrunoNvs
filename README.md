@@ -8,7 +8,7 @@
 
 #### 👨‍💻 Sobre Mim
 - 🎓 Formado em Analise e desenvolvimento de sistemas.
-- 🌱 Atualmente aprendendo sobre: **Programação, analisa de dados com python**.
+- 🌱 Atualmente aprendendo sobre: **Programação, análise de dados com python**.
 - 📫 Como me encontrar: darkhulda322@gmail.com.
 - 😄 Pronomes: Ele/Dele
 
